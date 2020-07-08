@@ -6,7 +6,7 @@ int main()
   
   cout << "hello my world!" <<endl;
 
-  cout << "dev xxx" << endl;
+  cout << "dev xxx v2" << endl;
 
   return 0;
 }
